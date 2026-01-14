@@ -1,3 +1,4 @@
+telebot 
 psutil
 requests
 urllib3
